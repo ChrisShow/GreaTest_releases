@@ -1,0 +1,51 @@
+LICENZA D'USO DI GREATEST
+
+Copyright (c) 2026 ChrisShow. Tutti i diritti riservati.
+
+"GreaTest" indica le applicazioni GreaTest Student e GreaTest Teacher, i loro setup e la
+relativa documentazione, distribuiti nel repository https://github.com/ChrisShow/GreaTest-releases.
+
+1. Concessione d'uso
+   Il titolare concede gratuitamente a chiunque, persone, scuole ed enti compresi, il diritto
+   non esclusivo di scaricare, installare e usare GreaTest su un numero qualsiasi di computer.
+
+2. Distribuzione
+   È consentito distribuire copie dei setup di GreaTest, per esempio sui computer di un
+   laboratorio o su una chiavetta, purché integre, non modificate e gratuite.
+
+3. Limitazioni
+   Salvo quanto la legge applicabile consenta espressamente, non è consentito:
+   a) modificare GreaTest o crearne opere derivate;
+   b) decompilare, disassemblare o sottoporre GreaTest a ingegneria inversa, né aggirarne le
+      protezioni, compresa la cifratura dei file dei test e delle risposte;
+   c) vendere, noleggiare o concedere in licenza GreaTest a terzi, né distribuirlo a pagamento
+      o all'interno di un prodotto a pagamento;
+   d) rimuovere o alterare le indicazioni di copyright e questa licenza.
+
+4. Proprietà
+   GreaTest è concesso in uso, non venduto. Il codice sorgente non è distribuito e tutti i
+   diritti non espressamente concessi restano al titolare.
+
+5. Componenti di terze parti
+   GreaTest include componenti di terze parti distribuiti con le rispettive licenze: .NET e WPF
+   (MIT), AvalonEdit (MIT), WpfMath (MIT), SharpCompress (MIT), QuestPDF (QuestPDF Community
+   License). Il compilatore w64devkit, scaricato a parte, è soggetto alle proprie licenze.
+   Questa licenza non limita i diritti concessi dalle licenze di quei componenti.
+
+6. Esclusione di garanzia
+   GREATEST È FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPRESSE O IMPLICITE, COMPRESE
+   LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ A UNO SCOPO PARTICOLARE E NON VIOLAZIONE. Chi lo usa
+   per una verifica resta responsabile della conduzione della verifica e della conservazione
+   delle consegne.
+
+7. Limitazione di responsabilità
+   Nei limiti massimi consentiti dalla legge, il titolare non risponde di alcun danno, diretto
+   o indiretto, derivante dall'uso o dall'impossibilità di usare GreaTest, compresa la perdita
+   di dati o di risposte.
+
+8. Cessazione
+   La licenza cessa automaticamente in caso di violazione di queste condizioni. In quel caso
+   chi l'ha violata deve smettere di usare GreaTest e cancellarne le copie.
+
+9. Legge applicabile
+   Questa licenza è regolata dalla legge italiana.
