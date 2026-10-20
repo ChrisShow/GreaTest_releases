@@ -5,7 +5,7 @@
 Funziona su qualsiasi PC con Windows 11, senza server, senza account e senza configurare i computer.
 
 > Questo repository distribuisce i **setup** di GreaTest. Il codice sorgente non è pubblico.
-> Scarica l'ultima versione dalla pagina **[Releases](https://github.com/ChrisShow/GreaTest-releases/releases/latest)**.
+> Scarica l'ultima versione dalla pagina **[Releases](https://github.com/ChrisShow/GreaTest_releases/releases/latest)**.
 
 ## Le due app
 
@@ -84,7 +84,7 @@ GreaTest è scritto in **C# con .NET 8 e WPF**, la stessa base di Safe Exam Brow
 
 ## Installazione
 
-1. Dalla pagina **[Releases](https://github.com/ChrisShow/GreaTest-releases/releases/latest)** scarica `GreaTest-Student-setup.exe` e/o `GreaTest-Teacher-setup.exe`.
+1. Dalla pagina **[Releases](https://github.com/ChrisShow/GreaTest_releases/releases/latest)** scarica `GreaTest-Student-setup.exe` e/o `GreaTest-Teacher-setup.exe`.
 2. I setup non sono firmati con un certificato: se Windows mostra "Windows ha protetto il PC", clicca **Ulteriori informazioni** e poi **Esegui comunque**.
 3. **Sui PC del laboratorio** installa GreaTest Student con un account amministratore e scegli **Installa per tutti gli utenti**. Così l'app vale per ogni account, i file `.greatest` si aprono con un doppio clic e il compilatore scaricato dal primo studente serve a tutti.
 4. **Sul PC del docente** installa GreaTest Teacher, per tutti gli utenti o solo per il tuo account.
